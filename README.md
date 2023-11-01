@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelbernardi&show_icons=true&theme=radical)](https://github.com/michaelbernardi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbernardi&layout=compact&show_icons=true&theme=radical)](https://github.com/michaelbernardi/github-readme-stats)
- 
+ ##
 <div style="display: inline_block"><br>
   <img align="center" alt="T-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="T-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
