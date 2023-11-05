@@ -1,7 +1,5 @@
 ## Hello, my name is Michael Bernardi, FullStack developer
 
-<img align="right" src="https://komarev.com/ghpvc/?username=michaelbernardi&color=0077ff"><br>
-
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Michael+Bernardi;I+am+from+Brazil;I+am+a+Full-Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 
 <div align="center">  
