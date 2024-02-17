@@ -29,6 +29,6 @@
   
 <div> 
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-bernardi-6a249b24b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-bernardi-silva/)
 [![Gmail](https://img.shields.io/badge/-michaelbernardi.silva@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:michaelbernardi.silva@gmail.com)](mailto:michaelbernardi.silva@gmail.com)
 </div>
